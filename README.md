@@ -1,5 +1,6 @@
 ##### 运行截图
-http://www.jifxi.cn/github/images/count-down/1.png
+
+![](http://jifxi.cn/github/images/count-down/1.png)
 
 ## 倒计时
 
