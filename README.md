@@ -1,6 +1,6 @@
 ##### 运行截图
 
-![](http://jifxi.cn/github/images/count-down/1.png)
+<img src="images/GIF.gif" />
 
 ## 倒计时
 
